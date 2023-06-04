@@ -1,0 +1,5 @@
+Invalid amount. Must be an integer.
+Please input an amount to withdraw (in cents):
+Successfully withdrew 000 from 4206969
+Please input an agent transaction or log out:
+Logging out.

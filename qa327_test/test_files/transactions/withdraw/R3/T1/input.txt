@@ -1,0 +1,6 @@
+login
+machine
+withdraw
+4206969
+5436
+logout

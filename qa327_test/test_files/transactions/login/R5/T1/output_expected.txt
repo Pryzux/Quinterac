@@ -1,0 +1,2 @@
+Please choose either 'machine' or 'agent' mode:
+Logging out.

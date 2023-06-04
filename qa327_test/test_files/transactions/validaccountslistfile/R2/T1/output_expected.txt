@@ -1,0 +1,2 @@
+Successfully read valid accounts file.
+Account in list of valid accounts is not 7 digits.

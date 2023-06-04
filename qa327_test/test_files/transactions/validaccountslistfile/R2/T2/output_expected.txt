@@ -1,0 +1,3 @@
+Successfully read valid accounts file.
+Account in list of valid accounts is invalid.
+Should not begin with a 0 and should be 7 digits long.

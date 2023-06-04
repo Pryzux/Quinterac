@@ -1,0 +1,7 @@
+login
+agent
+createacct
+012345
+6849813
+bob
+logout

@@ -1,0 +1,5 @@
+Invalid account name. Must be between 3 and 30 characters, not starting or ending with a space.
+Please input account name:
+Successfully created account 4206969 - Bobby
+Please input an agent transaction or log out:
+Logging out.

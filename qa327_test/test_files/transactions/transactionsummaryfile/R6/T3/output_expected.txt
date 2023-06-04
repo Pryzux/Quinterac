@@ -1,0 +1,1 @@
+Transaction summary name cannot end with spaces.

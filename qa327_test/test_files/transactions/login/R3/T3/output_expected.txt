@@ -1,0 +1,3 @@
+Invalid transaction code 'deleteacct'.
+Please input an agent transaction or log out:
+Logging out.

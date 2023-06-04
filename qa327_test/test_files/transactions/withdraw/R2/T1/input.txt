@@ -1,0 +1,6 @@
+login
+machine
+withdraw
+5092509
+48941
+logout

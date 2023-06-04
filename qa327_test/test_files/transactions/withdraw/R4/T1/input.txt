@@ -1,0 +1,7 @@
+login
+machine
+withdraw
+jfin141
+4206969
+9385
+logout

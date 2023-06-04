@@ -1,0 +1,4 @@
+Please input an agent transaction or log out:
+Invalid transaction code 'createacct'.
+Please input an agent transaction or log out:
+Logging out.

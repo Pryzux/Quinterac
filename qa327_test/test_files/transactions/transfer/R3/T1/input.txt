@@ -1,0 +1,11 @@
+login
+agent
+transfer
+1234567
+2345678
+950000
+transfer
+1234567
+2345678
+100000
+logout

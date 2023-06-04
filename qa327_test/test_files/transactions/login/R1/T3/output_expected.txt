@@ -1,0 +1,3 @@
+Please log in before attempting any transactions.
+Enter 'login' to begin.
+Logging out.

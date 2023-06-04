@@ -1,0 +1,6 @@
+Please input an agent transaction or log out:
+Please input account number:
+Please input account name:
+Successfully deleted account 4206969 - Christopher
+Please input an agent transaction or log out:
+Logging out.

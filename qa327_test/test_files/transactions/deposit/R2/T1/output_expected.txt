@@ -1,0 +1,6 @@
+Please input an amount to deposit (in cents):
+Invalid amount. Unable to make deposits above $2,000.00.
+Please input an amount to deposit (in cents):
+Successfully deposited 43578 into 1234567
+Please input an agent transaction or log out:
+Logging out.

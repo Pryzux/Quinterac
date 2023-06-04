@@ -1,0 +1,3 @@
+'deleteacct' is not a valid login mode.
+Please choose either 'machine' or 'agent' mode:
+Logging out.

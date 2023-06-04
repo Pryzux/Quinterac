@@ -1,0 +1,3 @@
+Transaction would exceed 61-character summary limit.
+Please input an agent transaction or log out:
+Logging out.

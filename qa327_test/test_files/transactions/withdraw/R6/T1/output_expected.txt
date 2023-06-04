@@ -1,0 +1,25 @@
+Successfully withdrew 99900 from 4206969
+Please input an agent transaction or log out:
+Please input account number:
+Please input an amount to withdraw (in cents):
+Successfully withdrew 99900 from 4206969
+Please input an agent transaction or log out:
+Please input account number:
+Please input an amount to withdraw (in cents):
+Successfully withdrew 99900 from 4206969
+Please input an agent transaction or log out:
+Please input account number:
+Please input an amount to withdraw (in cents):
+Successfully withdrew 99900 from 4206969
+Please input an agent transaction or log out:
+Please input account number:
+Please input an amount to withdraw (in cents):
+Successfully withdrew 99900 from 4206969
+Please input an agent transaction or log out:
+Please input account number:
+Please input an amount to withdraw (in cents):
+Invalid amount. Withdrawl would exceed $5,000.00 daily limit.
+Please input an amount to withdraw (in cents):
+Successfully withdrew 000 from 4206969
+Please input an agent transaction or log out:
+Logging out.

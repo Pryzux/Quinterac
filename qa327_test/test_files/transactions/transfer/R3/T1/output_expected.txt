@@ -1,0 +1,8 @@
+Successfully transferred 950000 from 1234567 into 2345678
+Please input an agent transaction or log out:
+Please input sender account number:
+Please input recipient account number:
+Please input an amount to withdraw (in cents):
+Successfully transferred 100000 from 1234567 into 2345678
+Please input an agent transaction or log out:
+Logging out.

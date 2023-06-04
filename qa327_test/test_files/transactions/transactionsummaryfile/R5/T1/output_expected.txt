@@ -1,0 +1,1 @@
+Transaction summary amount must be between 3 and 8 digits.

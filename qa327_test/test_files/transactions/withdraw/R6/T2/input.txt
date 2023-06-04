@@ -1,0 +1,7 @@
+login
+agent
+withdraw
+4206969
+6000000
+logout
+

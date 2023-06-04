@@ -1,0 +1,8 @@
+Successfully deleted account 4206969 - Christopher
+Please input an agent transaction or log out:
+Please input sender account number:
+Please input recipient account number:
+Please input an amount to withdraw (in cents):
+Both sender and recipient accounts not found, could not transfer.
+Please input an agent transaction or log out:
+Logging out.

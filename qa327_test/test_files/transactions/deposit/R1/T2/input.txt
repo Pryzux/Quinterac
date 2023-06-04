@@ -1,0 +1,7 @@
+login
+machine
+deposit
+48928
+4206969
+1000
+logout

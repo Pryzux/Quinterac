@@ -1,0 +1,2 @@
+Successfully read valid accounts file.
+Valid accounts list does not contain special number 0000000.

@@ -1,0 +1,3 @@
+Successfully transferred 200000 from 1234567 into 2345678
+Please input an agent transaction or log out:
+Logging out.

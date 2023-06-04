@@ -1,0 +1,5 @@
+Invalid amount. Unable to make transfers above $10,000.00.
+Please input an amount to withdraw (in cents):
+Successfully transferred 000 from 1234567 into 2345678
+Please input an agent transaction or log out:
+Logging out.

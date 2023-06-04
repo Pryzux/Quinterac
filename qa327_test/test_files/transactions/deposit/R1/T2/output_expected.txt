@@ -1,0 +1,6 @@
+Invalid account number. Must be exactly 7 digits, not beginning with 0.
+Please input account number:
+Please input an amount to deposit (in cents):
+Successfully deposited 1000 into 4206969
+Please input an agent transaction or log out:
+Logging out.

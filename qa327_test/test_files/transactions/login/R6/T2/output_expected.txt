@@ -1,0 +1,5 @@
+Using agent mode.
+Attempting to read valid accounts file.
+Successfully read valid accounts file.
+Please input an agent transaction or log out:
+Logging out.
